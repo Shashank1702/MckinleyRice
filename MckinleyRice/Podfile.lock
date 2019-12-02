@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireNetworkActivityIndicator (2.4.0):
+    - Alamofire (~> 4.8)
+  - HCFramework (1.2.12)
+  - HCHTTPService (1.0.8):
+    - Alamofire
+    - AlamofireNetworkActivityIndicator
+    - HCFramework
+    - PKHUD
+    - ReachabilitySwift (= 4.3.0)
+    - SDWebImage
+    - SwiftyJSON (~> 4.2.0)
+  - IQKeyboardManagerSwift (6.5.2)
+  - PKHUD (5.3.0)
+  - ReachabilitySwift (4.3.0)
+  - SDWebImage (5.3.0):
+    - SDWebImage/Core (= 5.3.0)
+  - SDWebImage/Core (5.3.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - HCHTTPService
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityIndicator
+    - HCFramework
+    - HCHTTPService
+    - IQKeyboardManagerSwift
+    - PKHUD
+    - ReachabilitySwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireNetworkActivityIndicator: 9acc3de3ca6645bf0efed462396b0df13dd3e7b8
+  HCFramework: 9b1e47cb7f82ecc926eef4f6257f97f3117aa503
+  HCHTTPService: e70669d52f5b264a666a5ee81d8c27dbd36f43f2
+  IQKeyboardManagerSwift: c75366f1f19590e8caeae45fcd5815c9289d6099
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  SDWebImage: f1afa74b86587c2c63f4e80dfd39b21e3c17b45b
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 186cbc6b1a82e056cd475ba41b35e8ec12989e4e
+
+COCOAPODS: 1.8.4

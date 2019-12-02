@@ -1,0 +1,6 @@
+framework module HCHTTPService {
+  umbrella header "HCHTTPService-umbrella.h"
+
+  export *
+  module * { export * }
+}
